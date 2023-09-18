@@ -14,8 +14,15 @@ body{
     font-weight: 300;
     color: hsl(0, 0%, 59%);
     font-size: 45px;
+    margin-bottom: 0;
 }
 .top-heading span{
     font-weight: 700;
     color: hsl(209, 33%, 12%);
+}
+.bottom-heading{
+    font-size: 19px;
+    font-weight: 300;
+    color: hsl(209, 33%, 12%);
+    margin-top: 20px;
 }
