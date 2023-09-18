@@ -6,3 +6,16 @@ body{
     align-items: center;
     padding: 8vh 0;
 }
+.headings{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.top-heading{
+    font-weight: 300;
+    color: hsl(0, 0%, 59%);
+    font-size: 45px;
+}
+.top-heading span{
+    font-weight: 700;
+    color: hsl(209, 33%, 12%);
+}
