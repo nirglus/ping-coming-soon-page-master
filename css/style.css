@@ -26,9 +26,13 @@ body{
     color: hsl(209, 33%, 12%);
     margin-top: 20px;
 }
+#mailAndBtn{
+    display: flex;
+    gap: 17px;
+}
 #userMail{
     height: 40px;
-    width: 280px;
+    width: 330px;
     border-radius: 30px;
     padding-left: 20px;
     border: 1px solid rgba(194, 211, 255, 0.7);
