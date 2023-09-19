@@ -93,3 +93,24 @@ footer{
     background-color: hsl(223, 87%, 63%);
     cursor: pointer;
 }
+@media (max-width:600px){
+    #mailAndBtn{
+        flex-direction: column;
+    }
+    #userMail{
+        width: 260px;
+        height: 40px;
+    }
+    ::placeholder{
+        font-size: 12px;
+    }
+    .notifyBtn{
+        width: 280px;
+        height: 40px;
+        font-size: 12px;
+    }
+    .dashboard{
+        width: 270px;
+        margin-bottom: 50px;
+    }
+}
