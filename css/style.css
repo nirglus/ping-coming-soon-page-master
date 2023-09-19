@@ -26,3 +26,13 @@ body{
     color: hsl(209, 33%, 12%);
     margin-top: 20px;
 }
+#userMail{
+    height: 40px;
+    width: 280px;
+    border-radius: 30px;
+    padding-left: 20px;
+    border: 1px solid rgba(194, 211, 255, 0.7);
+}
+::placeholder{
+    color: rgba(194, 211, 255, 0.7);
+}
