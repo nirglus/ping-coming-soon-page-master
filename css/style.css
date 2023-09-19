@@ -50,6 +50,14 @@ body{
     box-shadow: 0 4px 8px 1px #cbd0f1;
     color: #fff;
     font-size: 15px;
+    transition: background-color 0.5s;
+}
+.notifyBtn:hover{
+    background-color: rgba(79, 125, 243, 0.8);
+    cursor: pointer;
+}
+.notifyBtn:active{
+    transform: translateY(2px);
 }
 .dashboard{
     width: 600px;
