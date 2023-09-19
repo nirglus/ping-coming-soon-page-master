@@ -48,6 +48,9 @@ body{
     margin-right: 329px;
     margin-top: 10px;
 }
+.hidden{
+    display: none;
+}
 .notifyBtn{
     width: 170px;
     height: 50px;
@@ -131,5 +134,9 @@ footer{
     .dashboard{
         width: 270px;
         margin-bottom: 50px;
+    }
+    .error{
+        margin-top: -55px;
+        margin-right: 0;
     }
 }
