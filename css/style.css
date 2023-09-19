@@ -39,6 +39,7 @@ body{
 }
 ::placeholder{
     color: rgba(194, 211, 255, 0.7);
+    font-size: 16px;
 }
 .notifyBtn{
     width: 170px;
