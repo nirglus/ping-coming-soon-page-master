@@ -103,6 +103,9 @@ footer{
     .top-heading{
         font-size: 20px;
     }
+    .bottom-heading{
+        font-size: 12px;
+    }
     #mailAndBtn{
         flex-direction: column;
     }
