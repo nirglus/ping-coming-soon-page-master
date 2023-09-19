@@ -31,8 +31,8 @@ body{
     gap: 17px;
 }
 #userMail{
-    height: 40px;
-    width: 330px;
+    height: 50px;
+    width: 360px;
     border-radius: 30px;
     padding-left: 20px;
     border: 1px solid rgba(194, 211, 255, 0.7);
@@ -42,8 +42,8 @@ body{
 }
 .notifyBtn{
     width: 150px;
-    height: 40px;
-    border-radius: 20px;
+    height: 50px;
+    border-radius: 30px;
     background-color: hsl(223, 87%, 63%);
     border: 0;
     box-shadow: 0 4px 8px 1px #cbd0f1;
