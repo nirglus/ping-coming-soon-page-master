@@ -60,10 +60,13 @@ footer{
     flex-direction: column;
     align-items: center;
     margin-top: 60px;
+    font-size: 10px;
+    color: hsl(0, 0%, 59%);
 }
 .icons{
     display: flex;
     gap: 10px;
+    margin-bottom: 20px;
 }
 .icon{
     height: 20px;
