@@ -36,3 +36,12 @@ body{
 ::placeholder{
     color: rgba(194, 211, 255, 0.7);
 }
+.notifyBtn{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: hsl(223, 87%, 63%);
+    border: 0;
+    box-shadow: 0 4px 8px 1px #cbd0f1;
+    color: #fff;
+}
