@@ -49,3 +49,7 @@ body{
     box-shadow: 0 4px 8px 1px #cbd0f1;
     color: #fff;
 }
+.dashboard{
+    width: 600px;
+    margin-top: 70px;
+}
