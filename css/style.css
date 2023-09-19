@@ -41,13 +41,14 @@ body{
     color: rgba(194, 211, 255, 0.7);
 }
 .notifyBtn{
-    width: 150px;
+    width: 170px;
     height: 50px;
     border-radius: 30px;
     background-color: hsl(223, 87%, 63%);
     border: 0;
     box-shadow: 0 4px 8px 1px #cbd0f1;
     color: #fff;
+    font-size: 15px;
 }
 .dashboard{
     width: 600px;
