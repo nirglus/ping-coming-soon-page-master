@@ -94,6 +94,15 @@ footer{
     cursor: pointer;
 }
 @media (max-width:600px){
+    .logo{
+        margin-bottom: 30px;
+    }
+    .logo img{
+        width: 50px;
+    }
+    .top-heading{
+        font-size: 20px;
+    }
     #mailAndBtn{
         flex-direction: column;
     }
