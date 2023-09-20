@@ -103,6 +103,24 @@ footer{
     background-color: hsl(223, 87%, 63%);
     cursor: pointer;
 }
+@keyframes errorShake {
+    0%{
+        transform: translateX(0);
+    }
+    33%{
+        transform: translateX(-15px);
+    }
+    66%{
+        transform: translateX(15px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+.errorShake{
+    animation: errorShake 0.2s;
+}
+
 @media (max-width:600px){
     .logo{
         margin-bottom: 30px;
